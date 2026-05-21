@@ -35,3 +35,5 @@ ax.axvline(x=b, color='gray', linestyle='--')
 ax.set_title('Графік інтегрування f(x) = x^2 від ' + str(a) + ' до ' + str(b))
 plt.grid()
 plt.show()
+
+# думки....
