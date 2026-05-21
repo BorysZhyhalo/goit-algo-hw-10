@@ -66,7 +66,7 @@ if __name__ == "__main__":
 
     answer = input("\nЗапустити порівняння швидкості для великої суми? (y/n): ").strip().lower()
     if answer == "y":
-        big_amount = 100_000
+        big_amount = 100_000 
 
         start = time.perf_counter()
         greedy_big = find_coins_greedy(big_amount, coins)
