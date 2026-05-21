@@ -36,4 +36,3 @@ ax.set_title('Графік інтегрування f(x) = x^2 від ' + str(a)
 plt.grid()
 plt.show()
 
-# думки....
