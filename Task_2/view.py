@@ -1,6 +1,9 @@
 import matplotlib.pyplot as plt
 import numpy as np
 
+a = 0
+b = 2  
+
 # Визначення функції та межі інтегрування
 def func(x):
     return x ** 2
